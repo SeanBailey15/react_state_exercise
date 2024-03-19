@@ -1,6 +1,22 @@
-# Getting Started with Create React App
+# React State Exercise - Magic Eightball
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description  
+
+In this exercise, students create a small React app to practice working with `React.useState()`. The goal is to simulate the Magic Eightball toy. We begin with a default state. When we click on the Eightball, the state will change and display a randomized answer from a pool of possible answers. There is also a button to revert the Eightball back to it's default state. The focus is on controlling the state of a single component.
+
+## Getting Started  
+
+*The app is initialized with `create-react-app`. As this exercise is completed during the ReactJS Fundamentals unit, and students (like myself) are just beginning to learn React, there will surely be unnecessary files included in the repository.*  
+
+1. Clone the repository into a directory with the name of your choice: `git clone https://github.com/SeanBailey15/react_state_exercise.git <your_directory_name>`
+2. Navigate into the newly created directory: `cd <your_directory_name>`
+3. Install the dependencies: `npm install`
+4. Run the command: `npm start` in the terminal
+5. Get that nostalgic feeling (IYKYK)
+
+For this project in particular, that is all that needs to be done. What follows in this README are default scripts that come standard with a basic React app when initialized with `create-react-app`, as well as links to learn more. There are no tests written for this exercise, so `npm test` (and the rest of the default scripts, for that matter) should be ignored in this case.  
+
+## Thanks for checking out my solution! Have fun!
 
 ## Available Scripts
 
